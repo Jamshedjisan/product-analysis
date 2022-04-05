@@ -1,6 +1,6 @@
 ## Smart Television
 
-[Live Demo]("https://inspiring-donut-64ee34.netlify.app/)
+Live site: [Live Demo](https://inspiring-donut-64ee34.netlify.app/)
 
 ## The Feature Of this site
 
