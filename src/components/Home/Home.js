@@ -9,19 +9,20 @@ const Home = () => {
   const result = cart.slice(0, 3);
   return (
     <div className="mb-8">
-      <div className="flex">
+      <div className="flex sm:flex-cols-1">
         <div className="text-container">
           <h1 className="text-6xl font-bold p-4">Television is a media of</h1>
           <h1 className="text-6xl font-bold text-blue-600 p-4">
             Mass communication.
           </h1>
           <p className="text-xl mt-4">
-            Television not only provides many types of programs with interesting
-            and broad content, but it also serves to fulfill our needs in terms
-            of entertainment and knowledge. Everything has its merits and
-            demerits. But it is the most up-to-date means of communication
+            Smart Television not only provides many types of programs with
+            interesting and broad content, but it also serves to fulfill our
+            needs in terms of entertainment and knowledge. Everything has its
+            merits and demerits. But it is the most up-to-date means of
+            communication
           </p>
-          <button className="border-solid bg-slate-400 px-6 py-4 rounded mt-4">
+          <button className="border-solid bg-slate-400 px-6 py-4 rounded  mt-4">
             Live Demo
           </button>
         </div>
