@@ -9,7 +9,7 @@ const Home = () => {
   const result = cart.slice(0, 3);
   return (
     <div className="mb-8">
-      <div className="flex sm:flex-cols-1">
+      <div className="grid md:grid-cols-2 sm:grid-cols-1">
         <div className="text-container">
           <h1 className="text-6xl font-bold p-4">Television is a media of</h1>
           <h1 className="text-6xl font-bold text-blue-600 p-4">
@@ -36,7 +36,7 @@ const Home = () => {
       </div>
       <div className="review-container mt-16">
         <h1 className="text-5xl font-bold mb-8">Customer Reviews(3)</h1>
-        <div className="flex mb-8 bg-gray-200">
+        <div className="grid md:grid-cols-3 mb-8">
           {result.map((product) => (
             <ReviewDetail key={product.id} product={product}></ReviewDetail>
           ))}

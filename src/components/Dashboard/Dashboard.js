@@ -50,7 +50,7 @@ const Dashboard = () => {
     },
   ];
   return [
-    <div className="flex justify-between mt-8">
+    <div className="grid md:grid-cols-3 sm:grid-cols-1 ">
       <div>
         <h1 className="text-2xl font-semibold mb-4 text-blue-600">
           Month Wise Sell
