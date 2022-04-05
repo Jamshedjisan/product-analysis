@@ -1,15 +1,15 @@
 [
-    {
+       {
       "id": 1,
       "Name": "Robbi",
-      "Comment": "At present world Smart Television is revolutionatry change in the society",
+      "Comment": "At present world Smart Television is revolutionatry change in the society.It's also a great change.",
       "Rating": 4,
       "image": "http://careerconfidential.com/wp-content/uploads/2017/05/Businessman-Copy-Copy.jpg"
     },
     {
       "id": 2,
       "Name": "Gunner",
-      "Comment": "Television a great improvement over the radio.Radio pleases the only sense of hearing but television pleases our senses of sight and hearing at the same time.",
+      "Comment": "Television a great improvement over the radio.Radio pleases the sense of hearing but television pleases our senses of sight.",
       "Rating": 5,
       "image": "https://i.ibb.co/NtJZ9k1/warren-wong-VVEw-JJRRHgk-1024x1024-2.jpg"
     },
@@ -37,7 +37,7 @@
     {
       "id": 6,
       "Name": "Portia",
-      "Comment": "People want education, information, and instruction because they are inquisitive and like to learn. TV gives us this in documentaries or educational programs, and in reports or cultural programs.",
+      "Comment": "People want education, information, and instruction because they are inquisitive and like to learn. TV gives us this in documentaries or almost anywhere at any time educational programs, and in reports or cultural programs.",
       "Rating": 5,
       "image": "http://cache.desktopnexus.com/thumbseg/2487/2487414-bigthumbnail.jpg"
     }
